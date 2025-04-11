@@ -5,6 +5,16 @@ This project performs Principal Component Analysis (PCA) on a dataset containing
 
 The analysis is followed by a series of visualizations to display the results of the PCA, including 3D scatter plots, box plots, and histograms. The PCA model is trained and saved for future use.
 
+1. Clone Repo
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run Jupyter notebook
+
 ---
 
 **Español**:
